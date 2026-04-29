@@ -1,0 +1,33 @@
+.Rhistory
+.Rdata
+.Ruserdata
+
+# renv
+renv/
+.Rproj.user/
+
+# Local R libraries (created by scripts)
+.r_libs/
+
+# Outputs (images/maps can be heavy)
+output/
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.pdf
+*.html
+
+# Downloaded data (recreated by scripts)
+data/
+
+# macOS / system temp files
+.DS_Store
+._*
+.Trashes
+
+# Generic temp files
+*~
+*.swp
+*.tmp
